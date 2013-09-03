@@ -1,4 +1,5 @@
 *.gem
+*.csv # These things are huge.
 *.rbc
 .bundle
 .config
